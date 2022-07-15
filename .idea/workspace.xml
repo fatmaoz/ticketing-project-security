@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57e00de-361b-44f5-b6b2-8b9a5468cee3" name="Changes" comment="added circleci without circleci">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657837354966</updated>
       <workItem from="1657837367599" duration="11687000" />
-      <workItem from="1657905513368" duration="2724000" />
+      <workItem from="1657905513368" duration="5230000" />
     </task>
     <task id="LOCAL-00001" summary="added dockercompose and dockerfile">
       <created>1657841706043</created>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657907439866</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added circleci without circleci">
+      <created>1657912265039</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657912265039</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
